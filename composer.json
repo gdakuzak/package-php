@@ -1,0 +1,15 @@
+{
+    "name": "gdakuzak/package-php",
+    "autoload": {
+        "psr-4": {
+            "Gdakuzak\\PackagePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Dakuzaku",
+            "email": "ext.guilherme.dakuzaku@dafiti.com.br"
+        }
+    ],
+    "require": {}
+}
